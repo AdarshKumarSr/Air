@@ -20,7 +20,12 @@ Make sure you have the following installed:
 ```bash
 pip install opencv-python mediapipe numpy
 ```
-
+or u can create requirement.txt and this and install it directly 
+```bash
+opencv-python
+mediapipe
+numpy
+```
 ## Usage
 Run the application:
 ```bash
